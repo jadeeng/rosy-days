@@ -3,15 +3,14 @@ body {
     font-family: 'Raleway';
     text-align: center;
 }
-<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 
  h2, h5, h6 {
     font-family: 'The Girl Next Door';
     font-weight: bold;
 }
 
-h1, h4, h3{
-    font-family: 'Raleway';
+h1, h4, h3 {
+    font-family: 'The Girl Next Door';
     font-weight: bold;
 }
 
