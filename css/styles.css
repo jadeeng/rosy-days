@@ -1,16 +1,17 @@
 
 body {
-    font-family: 'The Girl Next Door';
+    font-family: 'Raleway';
     text-align: center;
 }
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 
-h1, h4, h5, h6 {
+ h2, h5, h6 {
     font-family: 'The Girl Next Door';
     font-weight: bold;
 }
 
-h2, h3 {
-    font-family: 'The Girl Next Door';
+h1, h4, h3{
+    font-family: 'Raleway';
     font-weight: bold;
 }
 
@@ -18,7 +19,7 @@ p {
   color: #8f8f8f;
 }
 .products{
-  
+
     width:250px;
     height: 250px;
     padding-bottom: 30px;
@@ -27,7 +28,7 @@ p {
 /* Headings */
 
 .big-heading {
-    font-family: 'the Girl Next Door';
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 2.4rem;
     line-height: 1.5;

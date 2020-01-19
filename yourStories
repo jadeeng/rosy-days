@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
 
+<<<<<<< HEAD
     <title>Rosy Days ♡</title>
 
 
@@ -11,6 +12,20 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=The+Girl+Next+Door&display=swap" rel="stylesheet">
+=======
+    <title>rosy days ♡</title>
+
+
+    <!-- Google Fonts -->
+<<<<<<<< HEAD:yourStories
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css?family=The+Girl+Next+Door&display=swap" rel="stylesheet">
+========
+    <link href="https://fonts.googleapis.com/css?family=The+Girl+Next+Door&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+>>>>>>>> jade:forYou.html
+>>>>>>> jade
 
     <!-- CSS Stylesheets -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -22,6 +37,15 @@
             font-size: 18px;
         }
     </style>
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:yourStories
+========
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/63f30294a4.js" crossorigin="anonymous"></script>
+>>>>>>>> jade:forYou.html
+>>>>>>> jade
 
 
     <!-- Font Awesome -->
@@ -30,7 +54,16 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<<<<<<< HEAD
 </head>
+=======
+<<<<<<<< HEAD:yourStories
+</head>
+========
+    </head>
+
+>>>>>>>> jade:forYou.html
+>>>>>>> jade
     <body>
 
         <section class="colored-section" id="title">
@@ -40,7 +73,11 @@
                 <!-- Nav Bar -->
 
                 <nav class="navbar navbar-expand-lg navbar-dark">
+<<<<<<< HEAD
                     <a class="navbar-brand" href="#">Rosy Days ♡<i class="far fa-heart"></i></a>
+=======
+                    <a class="navbar-brand" href="index.html">rosy days ♡<!--<i class="far fa-heart"></i>--></a>
+>>>>>>> jade
                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                      </button>
                     <span class="navbar-toggler-icon"></span>
@@ -48,20 +85,41 @@
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto">
+<<<<<<< HEAD
                             <li class="nav-item">
 
                                 <a class="nav-link " href="forYou.html">For You</a>
                             </li>
+=======
+
+>>>>>>> jade
                             <li class="nav-item">
                                 <a class="nav-link " href="Donate.html">Donate</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link " href="aboutUs.html">About Us</a>
+<<<<<<< HEAD
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link " href="yourStories.html">Your Stories</a>
                             </li>
 
+=======
+<<<<<<<< HEAD:yourStories
+========
+
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="yourStories.html">Your Stories</a>
+>>>>>>>> jade:forYou.html
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="yourStories.html">Your Stories</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="googleLogIn.html">Login</a>
+                            </li>
+>>>>>>> jade
 
                         </ul>
                     </div>
@@ -129,7 +187,11 @@
             <div id="testimonial-carousel" class="carousel slide" data-ride="false">
                 <div class="carousel-inner">
                     <div class="carousel-item active container-fluid">
+<<<<<<< HEAD
                         <h2 class="testimonial-text">I love Rosy Days! I made sure to tell all my friends about this wonderful app!</h2>
+=======
+                        <h2 class="testimonial-text">I love rosy days! I made sure to tell all my friends about this wonderful app!</h2>
+>>>>>>> jade
                         <img class="testimonial-image" src="https://66.media.tumblr.com/4ee1ff25ff911371d74e6df548c15a42/tumblr_oc77rhULJo1rwf2zto1_1280.jpg" alt="white-rose">
                         <em>Rosa, New York</em>
                     </div>
@@ -163,7 +225,11 @@
 
         <section class="white-section" id="pricing">
 
+<<<<<<< HEAD
             <h2 class="section-heading">A Plan for Your Rosy Days</h2>
+=======
+            <h2 class="section-heading">A Plan for Your rosy days</h2>
+>>>>>>> jade
             <p>Any feminine products you need, someone will have it for you!</p>
 
             <div class="row">
@@ -244,7 +310,11 @@
                 <i class="social-icon fab fa-twitter"></i>
                 <i class="social-icon fab fa-instagram"></i>
                 <i class="social-icon fas fa-envelope"></i>
+<<<<<<< HEAD
                 <p>© Copyright 2020 Rosy Days</p>
+=======
+                <p>© Copyright 2020 rosy days</p>
+>>>>>>> jade
             </div>
         </footer>
 
