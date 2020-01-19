@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Rosy Days ♡</title>
+    <title>rosy days ♡</title>
 
 
     <!-- Google Fonts -->
@@ -40,7 +40,7 @@
                 <!-- Nav Bar -->
 
                 <nav class="navbar navbar-expand-lg navbar-dark">
-                    <a class="navbar-brand" href="#">Rosy Days ♡<i class="far fa-heart"></i></a>
+                    <a class="navbar-brand" href="#">rosy days ♡<i class="far fa-heart"></i></a>
                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                      </button>
                     <span class="navbar-toggler-icon"></span>
@@ -129,7 +129,7 @@
             <div id="testimonial-carousel" class="carousel slide" data-ride="false">
                 <div class="carousel-inner">
                     <div class="carousel-item active container-fluid">
-                        <h2 class="testimonial-text">I love Rosy Days! I made sure to tell all my friends about this wonderful app!</h2>
+                        <h2 class="testimonial-text">I love rosy days! I made sure to tell all my friends about this wonderful app!</h2>
                         <img class="testimonial-image" src="https://66.media.tumblr.com/4ee1ff25ff911371d74e6df548c15a42/tumblr_oc77rhULJo1rwf2zto1_1280.jpg" alt="white-rose">
                         <em>Rosa, New York</em>
                     </div>
@@ -163,7 +163,7 @@
 
         <section class="white-section" id="pricing">
 
-            <h2 class="section-heading">A Plan for Your Rosy Days</h2>
+            <h2 class="section-heading">A Plan for Your rosy days</h2>
             <p>Any feminine products you need, someone will have it for you!</p>
 
             <div class="row">
@@ -244,7 +244,7 @@
                 <i class="social-icon fab fa-twitter"></i>
                 <i class="social-icon fab fa-instagram"></i>
                 <i class="social-icon fas fa-envelope"></i>
-                <p>© Copyright 2020 Rosy Days</p>
+                <p>© Copyright 2020 rosy days</p>
             </div>
         </footer>
 

@@ -1,16 +1,17 @@
 
 body {
-    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Raleway';
     text-align: center;
 }
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 
-h1, h4, h5, h6 {
+ h4, h5, h6 {
     font-family: 'The Girl Next Door';
     font-weight: bold;
 }
 
-h2, h3{
-    font-family: 'Cedarville Cursive', cursive;
+h1, h2, h3{
+    font-family: 'Raleway';
     font-weight: bold;
 }
 
@@ -21,7 +22,7 @@ p {
 /* Headings */
 
 .big-heading {
-    font-family: 'the Girl Next Door';
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 2.4rem;
     line-height: 1.5;
@@ -56,7 +57,7 @@ p {
 }
 
 .navbar-brand {
-    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'The Girl Next Door';
     font-size: 3.5rem;
     font-weight: normal;
 }
