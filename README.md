@@ -1,3 +1,5 @@
+# tinDog 
+ Landing page using HTML, CSS, Bootstrap for tinDog (a fictional startup serving as tinder for dogs).
 # Rosy Days
  Landing page using HTML, CSS, Bootstrap for RosyDays (a fictional startup serving as a platform for users to share/donate feminine hygiene products ).
  

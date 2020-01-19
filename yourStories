@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -30,7 +30,6 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="https://apis.google.com/js/platform.js" async defer></script>
 </head>
     <body>
 
@@ -42,11 +41,16 @@
 
                 <nav class="navbar navbar-expand-lg navbar-dark">
                     <a class="navbar-brand" href="#">Rosy Days ♡<i class="far fa-heart"></i></a>
+                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                     </button>
+                    <span class="navbar-toggler-icon"></span>
+
+
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
 
-                                <a class="nav-link " href="#pricing">For You</a>
+                                <a class="nav-link " href="forYou.html">For You</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link " href="Donate.html">Donate</a>
@@ -57,15 +61,8 @@
                             <li class="nav-item">
                                 <a class="nav-link " href="yourStories.html">Your Stories</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link " href="googleLogIn.html">Login</a>
-                            </li>
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 0d940db6c7d7c9dc5f4f922c6e6c721bcc1e6e19
                         </ul>
                     </div>
                 </nav>
@@ -77,8 +74,8 @@
 
                     <div class="col-lg-6">
                         <h1 class="big-heading">You'll never be without any feminine products ever again!</h1>
-                       	<a href="login.html" button type="button" class="btn btn-dark btn-lg"> Login</a>
-                        <a href="signup.html" button type="button" class="btn btn-dark btn-lg"> Sign Up</a>
+                        <button type="button" class="btn btn-dark btn-lg download-button"><i class="fab fa-apple"></i> Download</button>
+                        <button type="button" class="btn btn-outline-light btn-lg download-button"><i class="fab fa-google-play"></i> Download</button>
                     </div>
 
                     <div class="col-lg-6">
@@ -164,55 +161,65 @@
 
         <!-- Pricing -->
 
-<section class="white-section" id="pricing">
+        <section class="white-section" id="pricing">
 
-    <h2 class="section-heading">Our Products</h2>
-    <p>Any feminine products you need, someone will have it for you!</p>
+            <h2 class="section-heading">A Plan for Your Rosy Days</h2>
+            <p>Any feminine products you need, someone will have it for you!</p>
 
-    <div class="row">
+            <div class="row">
 
-        <div class="pricing-column col-lg-4 col-md-6">
-            <div class="card">
-                <div class="card-header">
-                    <h3>Tampons</h3>
-                </div>
-                <div class="card-body">
-                    <img class="products"src="images/tampon.jpg" alt="tampon">
-                    <button class="btn btn-lg btn-block btn-outline-dark" type="button">View</button>
-                </div>
-            </div>
-        </div>
-
-        <div class="pricing-column col-lg-4 col-md-6">
-            <div class="card">
-                <div class="card-header">
-                    <h3>Pads</h3>
-                </div>
-                <div class="card-body">
-                    <img class="products"src="images/pad.jpg" alt="pad">
-                    <button class="btn btn-lg btn-block btn-outline-dark" type="button">View</button>
-                </div>
-            </div>
-        </div>
-
-
-                        <div class="pricing-column col-lg-4 col-md-6">
-                            <div class="card">
-                                <div class="card-header">
-                                    <h3>Cups</h3>
-                                </div>
-                                <div class="card-body">
-                                    <img class="products"src="images/cup.png" alt="cup">
-                                    <button class="btn btn-lg btn-block btn-outline-dark" type="button">View</button>
-                                </div>
-                            </div>
+                <div class="pricing-column col-lg-4 col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3>Tampons</h3>
                         </div>
+                        <div class="card-body">
+                            <h2 class="price-text">Free</h2>
+                            <p>Up to 5 tampons per day</p>
+                            <p>Varying sizes to accomodate all</p>
+                            <p>Organic options available</p>
+                            <button class="btn btn-lg btn-block btn-outline-dark" type="button">View Tampons</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pricing-column col-lg-4 col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3>Pads</h3>
+                        </div>
+                        <div class="card-body">
+                            <h2 class="price-text">Free</h2>
+                            <p>Up to 7 pads per day</p>
+                            <p>Differing size/thickness for any and all occasions</p>
+                            <p>Organic pads available</p>
+                            <button class="btn btn-lg btn-block btn-dark" type="button">View Pads</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pricing-column col-lg-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3>Other Products</h3>
+                        </div>
+                        <div class="card-body">
+                            <h2 class="price-text">Free</h2>
+                            <p>Feminine wipes</p>
+                            <p>Diva cups</p>
+                            <p>Reusable pads</p>
+                            <p>More options</p>
+                            <button class="btn btn-lg btn-block btn-dark" type="button">View More</button>
+
+                        </div>
+                    </div>
+                </div>
 
 
 
-    </div>
+            </div>
 
-</section>
+        </section>
 
 
 
@@ -223,6 +230,8 @@
             <div class="container-fluid">
 
                 <h3 class="big-heading">Whenever and wherever -- we got your back!</h3>
+                <button class="download-button btn btn-lg btn-dark" type="button"><i class="fab fa-apple"></i> Download</button>
+                <button class="download-button btn btn-lg btn-outline-light" type="button"><i class="fab fa-google-play"></i> Download</button>
             </div>
         </section>
 
