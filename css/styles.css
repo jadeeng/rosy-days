@@ -1,13 +1,17 @@
 
 body {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat";
-  font-weight: bold;
+h1, h4, h5, h6 {
+    font-family: 'The Girl Next Door';
+    font-weight: bold;
+}
 
+h2, h3{
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: bold;
 }
 
 p {
@@ -17,10 +21,10 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat";
-  font-weight: 700;
-  font-size: 3.4rem;
-  line-height: 1.5;
+    font-family: 'the Girl Next Door';
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 1.5;
 }
 
 .section-heading {
@@ -48,13 +52,13 @@ p {
 /* Navigation Bar */
 
 .navbar {
-  padding: 0 0 4.5rem;
+  padding: 0 0 3.5rem;
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
-  font-size: 2.5rem;
-  font-weight: bold;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 3.5rem;
+    font-weight: normal;
 }
 
 .nav-item {
@@ -62,9 +66,9 @@ p {
 }
 
 .nav-link {
-  font-size: 1.2rem;
-  font-family: "Montserrat";
-  font-weight: normal;
+    font-size: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
 }
 
 /* Buttons */
@@ -89,7 +93,7 @@ p {
 
 .title-image {
   width: 60%;
-  transform: rotate(25deg);
+  /*transform: rotate(25deg);*/
   position: absolute;
   right: 30%;
 }
@@ -101,7 +105,7 @@ p {
 }
 
 .feature-title {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 
 .feature-box {
